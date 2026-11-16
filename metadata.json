@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Rider Web 3D",
+  "description": "First-person 3D highway motorcycle racing game featuring the BMW S1000RR, multi-lane dynamic traffic, Career missions, Endless highway mode, and Garage upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
